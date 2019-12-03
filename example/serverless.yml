@@ -8,4 +8,4 @@ functions:
   hello:
     handler: handler.hello
     layers:
-      - arn:aws:lambda:ap-southeast-1:xx:layer:gemPacks:1
+      - arn:aws:lambda:us-west-2:xx:layer:gemPacks:1
